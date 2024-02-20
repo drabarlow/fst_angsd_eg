@@ -1,0 +1,4 @@
+/scratch/scw2141/hedgehog_bams/ovp+X1010_14_eur_mEriEur2.1_15.09673.bam
+/scratch/scw2141/hedgehog_bams/nom+X0995_14_eur_mEriEur2.1_13.67110.bam
+
+

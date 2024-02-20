@@ -1,0 +1,2 @@
+/scratch/scw2141/hedgehog_bams/12u+X1417_15_eur_mEriEur2.1_13.04682.bam
+/scratch/scw2141/hedgehog_bams/njx+X1416_15_eur_mEriEur2.1_15.13329.bam

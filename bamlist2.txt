@@ -1,0 +1,2 @@
+/scratch/scw2141/hedgehog_bams/t2p+X0558_19_eur_mEriEur2.1_13.13180.bam
+/scratch/scw2141/hedgehog_bams/dgL_k3h+X1031_17_eur_mEriEur2.1_15.07672.bam
